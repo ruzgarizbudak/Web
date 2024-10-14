@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    color: antiquewhite;
+    font-size: 15px;
+}
+
+h1{
+    text-align: center;
+    color: brown;
+}
+.x{
+    color: green;
+}
+
+.q{
+    color: yellow;
+}
+
+.w{
+    color: blue;
+}
